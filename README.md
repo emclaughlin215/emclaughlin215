@@ -4,7 +4,7 @@
 
 Projects to investigate technologies/frameworks which I do not get to play with through work as well as projects/coursework from my university days. ...and of course my dotfiles :).
 
-At work I usually work in Java/Python for data pipelining and building services. Unfortunately end up spending an upsetting amount of time debugging on premise services and networking issues - but by no means an expert.
+At work I mainly use in Java/Python for data pipelining and building services and Typscript/React/Redux for front end. Unfortunately end up spending an upsetting amount of time debugging on premise services and networking issues - but by no means an expert.
 
 Currently looking to improve my full stack developement (MySQL, API design, Typescript, React, Redux) and knowledge of Python/Machine learning frameworks.
 
