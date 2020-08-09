@@ -1,5 +1,6 @@
 <!--
 **emclaughlin215/emclaughlin215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Projects to investigate technologies/frameworks which I do not get to play with through work as well as projects/coursework from my university days.
 
