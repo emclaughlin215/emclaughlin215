@@ -8,6 +8,6 @@ At work I mainly use in Java/Python for data pipelining and building services an
 
 Currently looking to improve my full stack developement (MySQL, API design, Typescript, React, Redux) and knowledge of Python/Machine learning frameworks.
 
-- Currently working as a Forward Deployed Software Engineer at Palantir Technologies (2018=Present).
+- Currently working as a Forward Deployed Software Engineer at Palantir Technologies (2018-Present).
 - MSc in Humans and Biological Robotics from Imperial College London (2017-2018).
 - MEng in Mechanical Engineering from the University of Bristol (2012-2016).
